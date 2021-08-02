@@ -1,13 +1,5 @@
-this is new file 
-we are creating for testing perpose
-we are creating for testing perpose
-we are creating for testing perpose
-we are creating for testing perpose
-we are creating for testing perpose
-we are creating for testing perpose
-we are creating for testing perpose
-we are creating for testing perpose
-we are creating for testing perpose
-we are creating for testing perpose
-we are creating for testing perpose
-
+class simple{
+   public static void main(String args[]){  
+     a=10;
+    }  
+}
